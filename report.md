@@ -14,6 +14,11 @@ CTF(Capture The Flag)は、***情報セキュリティのスキルを競うコ�
   バイナリファイルを解析して動作を理解する。
 - **Forensics** 
   通信記録やファイルから情報を解析する。
+- **Pwning**
+  脆弱性を突いた攻撃
+
+- **Steganography**
+  メディアファイルに隠された情報を見つける
 
 # 個人で出来るCTFの練習サイト
 [CELTF](https://play.celtf.com/#/) CTF入門
