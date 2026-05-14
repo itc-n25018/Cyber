@@ -20,8 +20,11 @@ CTF(Capture The Flag)は、***情報セキュリティのスキルを競うコ�
 - **Steganography**
   メディアファイルに隠された情報を見つける
 
+# 自分が進めるサイト
+[サイト](https://www.computerfutures.com/ja-jp/knowledge-hub/cyber-security/what-is-ctf/)
+
 # 個人で出来るCTFの練習サイト
-[CELTF](https://play.celtf.com/#/) CTF入門
+[CTF入門](https://play.celtf.com/#/) CTF入門
 
 # 色々な問題サイト
 [CELTE](https://tech.pjin.jp/blog/tag/ctf/) 内容によって色々だが、種類豊富問題が沢山ある
